@@ -11,3 +11,6 @@ Implementation of the mathematical model described in the article "An Approach f
 
 ## Instructions for running
 
+1. Clone the repository on your computer.
+2. Open Visual Code and choose the "open a project or solution" option. Then look in the repository folder for the project and choose the "open" option.
+3. Add the gurobi reference to the project. Click on "project", then "Add COM reference" and locate in the gurobi installation folder the file with the ".NET" extension.
