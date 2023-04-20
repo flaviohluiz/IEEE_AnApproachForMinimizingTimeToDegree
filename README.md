@@ -7,6 +7,7 @@ Implementation of the mathematical model described in the article "An Approach f
 ## Requirements
 
 * Visual Studio 2021 or later.
-* Gurobi 9 or later (the latest version is recommended).
+* Gurobi Optimization 9 or later (the latest version is recommended).
 
 ## Instructions for running
+
