@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EPPlus" Version="6.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="gurobi100.netstandard20">
+      <HintPath>..\..\..\..\..\..\gurobi1001\win64\lib\gurobi100.netstandard20.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

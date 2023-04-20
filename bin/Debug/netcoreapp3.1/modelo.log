@@ -1,0 +1,81 @@
+
+Gurobi 10.0.1 (win64) logging started Sat Feb 25 00:23:18 2023
+
+Set parameter LogFile to value "modelo.log"
+Warning: linear constraint 9560 and linear constraint 9561 have the same name "R05_30"
+Gurobi Optimizer version 10.0.1 build v10.0.1rc0 (win64)
+
+CPU model: AMD Ryzen 7 5800H with Radeon Graphics, instruction set [SSE2|AVX|AVX2]
+Thread count: 8 physical cores, 16 logical processors, using up to 16 threads
+
+Optimize a model with 13172 rows, 136136 columns and 628528 nonzeros
+Model fingerprint: 0x5d2c3c69
+Variable types: 0 continuous, 136136 integer (132960 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+04]
+  Objective range  [1e+00, 5e+02]
+  Bounds range     [1e+00, 2e+09]
+  RHS range        [1e+00, 5e+01]
+Warning: Model contains large bounds
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Found heuristic solution: objective 712873.00000
+Presolve removed 2834 rows and 35474 columns
+Presolve time: 1.20s
+Presolved: 10338 rows, 100662 columns, 440056 nonzeros
+Found heuristic solution: objective 696904.00000
+Variable types: 0 continuous, 100662 integer (100199 binary)
+Found heuristic solution: objective 692904.00000
+Deterministic concurrent LP optimizer: primal and dual simplex
+Showing first log only...
+
+Concurrent spin time: 0.00s
+
+Solved with dual simplex
+
+Use crossover to convert LP symmetric solution to basic solution...
+
+Root relaxation: objective 3.030000e+04, 13458 iterations, 0.37 seconds (0.30 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 30300.0000    0  397 692904.000 30300.0000  95.6%     -    3s
+H    0     0                    188134.00000 30300.0000  83.9%     -    3s
+H    0     0                    170333.00000 30300.0000  82.2%     -    3s
+H    0     0                    148936.00000 30300.0000  79.7%     -    3s
+H    0     0                    127800.00000 30300.0000  76.3%     -    3s
+H    0     0                    121829.00000 30300.0000  75.1%     -   24s
+H    0     0                    98800.000000 30300.0000  69.3%     -   24s
+H    0     0                    59883.000000 30300.0000  49.4%     -   24s
+H    0     0                    58066.000000 30300.0000  47.8%     -   24s
+H    0     0                    53888.000000 30300.0000  43.8%     -   25s
+H    0     0                    52426.000000 30300.0000  42.2%     -   25s
+H    0     0                    50190.000000 30300.0000  39.6%     -   25s
+H    0     0                    49230.000000 30300.0000  38.5%     -   25s
+H    0     0                    48714.000000 30300.0000  37.8%     -   25s
+H    0     0                    47509.000000 30300.0000  36.2%     -   25s
+     0     0 30300.0000    0 4215 47509.0000 30300.0000  36.2%     -   25s
+H    0     0                    47409.000000 30300.0000  36.1%     -   37s
+H    0     0                    46829.000000 30300.0000  35.3%     -   37s
+     0     0 30300.0000    0 4247 46829.0000 30300.0000  35.3%     -   37s
+H    0     0                    46809.000000 30300.0000  35.3%     -   69s
+H    0     0                    46740.000000 30300.0000  35.2%     -   69s
+H    0     0                    37800.000000 30300.0000  19.8%     -   69s
+H    0     0                    30300.000000 30300.0000  0.00%     -   69s
+     0     0 30300.0000    0  533 30300.0000 30300.0000  0.00%     -   69s
+
+Cutting planes:
+  Cover: 570
+  Clique: 1881
+  MIR: 171
+  StrongCG: 43
+  Zero half: 6
+
+Explored 1 nodes (79648 simplex iterations) in 69.87 seconds (65.04 work units)
+Thread count was 16 (of 16 available processors)
+
+Solution count 10: 30300 37800 46740 ... 50190
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.030000000000e+04, best bound 3.030000000000e+04, gap 0.0000%

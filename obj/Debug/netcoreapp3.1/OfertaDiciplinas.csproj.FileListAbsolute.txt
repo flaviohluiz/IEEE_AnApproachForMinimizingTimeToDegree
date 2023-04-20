@@ -1,0 +1,176 @@
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema inicial de TimeTabling\OfertaDiciplinas\bin\Debug\netcoreapp3.1\OfertaDiciplinas.exe
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema inicial de TimeTabling\OfertaDiciplinas\bin\Debug\netcoreapp3.1\OfertaDiciplinas.deps.json
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema inicial de TimeTabling\OfertaDiciplinas\bin\Debug\netcoreapp3.1\OfertaDiciplinas.runtimeconfig.json
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema inicial de TimeTabling\OfertaDiciplinas\bin\Debug\netcoreapp3.1\OfertaDiciplinas.runtimeconfig.dev.json
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema inicial de TimeTabling\OfertaDiciplinas\bin\Debug\netcoreapp3.1\OfertaDiciplinas.dll
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema inicial de TimeTabling\OfertaDiciplinas\bin\Debug\netcoreapp3.1\OfertaDiciplinas.pdb
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema inicial de TimeTabling\OfertaDiciplinas\bin\Debug\netcoreapp3.1\Gurobi91.NET.dll
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema inicial de TimeTabling\OfertaDiciplinas\bin\Debug\netcoreapp3.1\Gurobi91.NET.xml
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema inicial de TimeTabling\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.csproj.AssemblyReference.cache
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema inicial de TimeTabling\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.Form1.resources
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema inicial de TimeTabling\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.csproj.GenerateResource.cache
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema inicial de TimeTabling\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.AssemblyInfoInputs.cache
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema inicial de TimeTabling\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.AssemblyInfo.cs
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema inicial de TimeTabling\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.csproj.CoreCompileInputs.cache
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema inicial de TimeTabling\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.csproj.CopyComplete
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema inicial de TimeTabling\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.dll
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema inicial de TimeTabling\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.pdb
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema inicial de TimeTabling\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.genruntimeconfig.cache
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema de Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\OfertaDiciplinas.exe
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema de Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\OfertaDiciplinas.deps.json
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema de Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\OfertaDiciplinas.runtimeconfig.json
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema de Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\OfertaDiciplinas.runtimeconfig.dev.json
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema de Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\OfertaDiciplinas.dll
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema de Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\OfertaDiciplinas.pdb
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema de Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\Gurobi91.NET.dll
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema de Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\Gurobi91.NET.xml
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema de Dissertação\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.csproj.AssemblyReference.cache
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema de Dissertação\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.Form1.resources
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema de Dissertação\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.csproj.GenerateResource.cache
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema de Dissertação\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.AssemblyInfoInputs.cache
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema de Dissertação\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.AssemblyInfo.cs
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema de Dissertação\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.csproj.CoreCompileInputs.cache
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema de Dissertação\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.csproj.CopyComplete
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema de Dissertação\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.dll
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema de Dissertação\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.pdb
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Problema de Dissertação\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.genruntimeconfig.cache
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.dll
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.pdb
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\OfertaDiciplinas.exe
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\OfertaDiciplinas.deps.json
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\OfertaDiciplinas.runtimeconfig.json
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\OfertaDiciplinas.runtimeconfig.dev.json
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\OfertaDiciplinas.dll
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\OfertaDiciplinas.pdb
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\Gurobi91.NET.dll
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\Gurobi91.NET.xml
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.csproj.AssemblyReference.cache
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.Form1.resources
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.csproj.GenerateResource.cache
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.AssemblyInfoInputs.cache
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.AssemblyInfo.cs
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.csproj.CoreCompileInputs.cache
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.csproj.CopyComplete
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\obj\Debug\netcoreapp3.1\OfertaDiciplinas.genruntimeconfig.cache
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\EPPlus.Interfaces.dll
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\EPPlus.System.Drawing.dll
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Flavio Luiz\Desktop\Mestrado UFPR\Dissertação\OfertaDiciplinas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\OfertaDiciplinas.exe
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\OfertaDiciplinas.deps.json
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\OfertaDiciplinas.runtimeconfig.json
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\OfertaDiciplinas.runtimeconfig.dev.json
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\OfertaDiciplinas.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\OfertaDiciplinas.pdb
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\EPPlus.Interfaces.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\EPPlus.System.Drawing.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\Gurobi95.NET.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\Gurobi95.NET.xml
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\obj\Debug\netcoreapp3.1\OfertaDiciplinas.csproj.AssemblyReference.cache
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\obj\Debug\netcoreapp3.1\OfertaDiciplinas.Form1.resources
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\obj\Debug\netcoreapp3.1\OfertaDiciplinas.csproj.GenerateResource.cache
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\obj\Debug\netcoreapp3.1\OfertaDiciplinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\obj\Debug\netcoreapp3.1\OfertaDiciplinas.AssemblyInfoInputs.cache
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\obj\Debug\netcoreapp3.1\OfertaDiciplinas.AssemblyInfo.cs
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\obj\Debug\netcoreapp3.1\OfertaDiciplinas.csproj.CoreCompileInputs.cache
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\obj\Debug\netcoreapp3.1\OfertaDiciplinas.csproj.CopyComplete
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\obj\Debug\netcoreapp3.1\OfertaDiciplinas.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\obj\Debug\netcoreapp3.1\OfertaDiciplinas.pdb
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação\dissertacao_mestrado_ufpr\obj\Debug\netcoreapp3.1\OfertaDiciplinas.genruntimeconfig.cache
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\OfertaDiciplinas.exe
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\OfertaDiciplinas.deps.json
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\OfertaDiciplinas.runtimeconfig.json
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\OfertaDiciplinas.runtimeconfig.dev.json
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\OfertaDiciplinas.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\OfertaDiciplinas.pdb
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\EPPlus.Interfaces.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\EPPlus.System.Drawing.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\gurobi100.netstandard20.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\bin\Debug\netcoreapp3.1\gurobi100.netstandard20.xml
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\obj\Debug\netcoreapp3.1\OfertaDiciplinas.csproj.AssemblyReference.cache
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\obj\Debug\netcoreapp3.1\OfertaDiciplinas.Form1.resources
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\obj\Debug\netcoreapp3.1\OfertaDiciplinas.csproj.GenerateResource.cache
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\obj\Debug\netcoreapp3.1\OfertaDiciplinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\obj\Debug\netcoreapp3.1\OfertaDiciplinas.AssemblyInfoInputs.cache
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\obj\Debug\netcoreapp3.1\OfertaDiciplinas.AssemblyInfo.cs
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\obj\Debug\netcoreapp3.1\OfertaDiciplinas.csproj.CoreCompileInputs.cache
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\obj\Debug\netcoreapp3.1\OfertaDiciplinas.csproj.CopyComplete
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\obj\Debug\netcoreapp3.1\OfertaDiciplinas.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\obj\Debug\netcoreapp3.1\OfertaDiciplinas.pdb
+C:\Users\Flavi\OneDrive\Área de Trabalho\Dissertação Código\dissertacao_mestrado_ufpr\obj\Debug\netcoreapp3.1\OfertaDiciplinas.genruntimeconfig.cache
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\bin\Debug\netcoreapp3.1\OfertaDiciplinas.exe
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\bin\Debug\netcoreapp3.1\OfertaDiciplinas.deps.json
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\bin\Debug\netcoreapp3.1\OfertaDiciplinas.runtimeconfig.json
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\bin\Debug\netcoreapp3.1\OfertaDiciplinas.runtimeconfig.dev.json
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\bin\Debug\netcoreapp3.1\OfertaDiciplinas.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\bin\Debug\netcoreapp3.1\OfertaDiciplinas.pdb
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\bin\Debug\netcoreapp3.1\EPPlus.Interfaces.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\bin\Debug\netcoreapp3.1\EPPlus.System.Drawing.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\bin\Debug\netcoreapp3.1\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\bin\Debug\netcoreapp3.1\gurobi100.netstandard20.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\bin\Debug\netcoreapp3.1\gurobi100.netstandard20.xml
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\obj\Debug\netcoreapp3.1\OfertaDiciplinas.csproj.AssemblyReference.cache
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\obj\Debug\netcoreapp3.1\OfertaDiciplinas.Form1.resources
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\obj\Debug\netcoreapp3.1\OfertaDiciplinas.csproj.GenerateResource.cache
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\obj\Debug\netcoreapp3.1\OfertaDiciplinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\obj\Debug\netcoreapp3.1\OfertaDiciplinas.AssemblyInfoInputs.cache
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\obj\Debug\netcoreapp3.1\OfertaDiciplinas.AssemblyInfo.cs
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\obj\Debug\netcoreapp3.1\OfertaDiciplinas.csproj.CoreCompileInputs.cache
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\obj\Debug\netcoreapp3.1\OfertaDiciplinas.csproj.CopyComplete
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\obj\Debug\netcoreapp3.1\OfertaDiciplinas.dll
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\obj\Debug\netcoreapp3.1\OfertaDiciplinas.pdb
+C:\Users\Flavi\OneDrive\Área de Trabalho\IEEE Código\IEEE_AnApproachForMinimizingTimeToDegree\obj\Debug\netcoreapp3.1\OfertaDiciplinas.genruntimeconfig.cache
