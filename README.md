@@ -15,9 +15,9 @@ Implementation of the mathematical model described in the article "An Approach f
 2. Open Visual Code and choose the "open a project or solution" option. Then look in the repository folder for the project and choose the "open" option.
 3. Add the gurobi reference to the project. Click on "project", then "Add COM reference" and locate in the gurobi installation folder the file with the ".NET" extension.
 4. Add the path to the input and output files.
-* In the tab ProblemScale.cs:
-i) line 54: subject input file
-ii) line 72: student's input file
+* In the tab ProblemaEscala.cs:
+i) line 54: subjects input file (Discentes.csv)
+ii) line 72: student's input file (Disciplinas.txt)
 iii) line 323: the log output file
 iv) line 721: variable X output file
 v) line 744: variable Y output file
